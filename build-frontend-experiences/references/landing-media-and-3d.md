@@ -1,3 +1,8 @@
+<!--
+Adapted in part from OpenAI frontend guidance and subsequently modified,
+reorganized, and extended. See the repository LICENSE and NOTICE files.
+-->
+
 # Landing Pages, Media, Games, and 3D
 
 Read only when the task involves a landing page, hero, prominent media, generated

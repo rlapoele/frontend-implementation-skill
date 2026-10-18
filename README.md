@@ -27,6 +27,23 @@ particular JavaScript framework or design system.
 The skill contains instructions only. It has no runtime dependencies and does not
 install executable scripts.
 
+## License and provenance
+
+This project is licensed under the
+[Apache License 2.0](LICENSE). Copyright 2026 Renaud Lapoële.
+
+The skill is an independent adaptation of OpenAI's
+[Frontend prompt instructions](https://developers.openai.com/api/docs/guides/frontend-prompt).
+A substantially matching version of that guidance is available in the
+Apache-2.0-licensed OpenAI Codex repository at a pinned commit. The adaptation
+revises, reorganizes, and extends the source material into a portable workflow;
+it is not an official OpenAI project and is not affiliated with, sponsored by,
+or endorsed by OpenAI.
+
+See [NOTICE](NOTICE) for the complete attribution, documentation snapshot hash,
+and immutable upstream source reference. The Apache-2.0 terms are reproduced in
+[LICENSE](LICENSE).
+
 ## Repository structure
 
 ```text

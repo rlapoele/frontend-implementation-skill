@@ -1,3 +1,8 @@
+<!--
+Adapted in part from OpenAI frontend guidance and subsequently modified,
+reorganized, and extended. See the repository LICENSE and NOTICE files.
+-->
+
 # Interface Design
 
 Use this reference when creating or changing controls, interaction, layout,
