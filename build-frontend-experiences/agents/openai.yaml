@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Frontend Experiences"
+  short_description: "Build accessible, verified frontend experiences"
+  default_prompt: "Use $build-frontend-experiences to implement this frontend experience and verify it in a real browser."
