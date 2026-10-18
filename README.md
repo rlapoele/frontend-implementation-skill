@@ -48,6 +48,8 @@ and immutable upstream source reference. The Apache-2.0 terms are reproduced in
 
 ```text
 build-frontend-experiences/
+├── LICENSE
+├── NOTICE
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml

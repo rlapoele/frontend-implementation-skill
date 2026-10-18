@@ -1,0 +1,31 @@
+Frontend Implementation Skill
+Copyright 2026 Renaud Lapoële
+
+This project includes material adapted from OpenAI's "Frontend prompt
+instructions":
+
+https://developers.openai.com/api/docs/guides/frontend-prompt
+
+Documentation snapshot retrieved on 2026-10-18.
+SHA-256 of the retrieved Markdown representation:
+ac54f84fef7d6a5b7c23895e27cd8341b43ad5d090b66ed488dbe11ce8e54de6
+
+A substantially matching version of the guidance is available in the OpenAI
+Codex repository under the Apache License, Version 2.0:
+
+https://github.com/openai/codex/blob/c10f95ddac7b35095d334dece2ebcf69bcde61fc/codex-rs/models-manager/models.json
+
+Related upstream commit:
+c10f95ddac7b35095d334dece2ebcf69bcde61fc
+
+OpenAI Codex
+Copyright 2025 OpenAI
+
+The upstream material has been revised, reorganized, and extended for use as a
+portable agent skill. The live documentation wording is not byte-for-byte
+identical to the pinned Codex source.
+
+This project is independent and is not affiliated with, sponsored by, or
+endorsed by OpenAI. "OpenAI" and "Codex" are used only to identify the origin
+of the adapted material. No trademark rights are granted by this notice or by
+the Apache License, Version 2.0.
