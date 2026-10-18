@@ -1,7 +1,13 @@
 ---
 name: build-frontend-experiences
 description: Builds or modifies user-facing frontends with domain-appropriate design, accessible interaction, responsive layout, controlled scope, and browser-verified delivery. Use when implementing pages, components, application workflows, websites, games, or interactive tools. Do not use for backend-only work or design critique without implementation.
+license: Apache-2.0
 ---
+
+<!--
+Adapted in part from OpenAI frontend guidance and subsequently modified,
+reorganized, and extended. See the repository LICENSE and NOTICE files.
+-->
 
 # Build Frontend Experiences
 

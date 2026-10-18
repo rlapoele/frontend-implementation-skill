@@ -1,4 +1,13 @@
 .DS_Store
+
+# IDE and editor workspace state
+.idea/
+.vscode/
+.vs/
+.fleet/
+*.code-workspace
+*.sublime-workspace
+
 .env
 .env.*
 *.pem

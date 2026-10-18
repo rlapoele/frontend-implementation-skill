@@ -1,3 +1,8 @@
+<!--
+Adapted in part from OpenAI frontend guidance and subsequently modified,
+reorganized, and extended. See the repository LICENSE and NOTICE files.
+-->
+
 # Verification and Handoff
 
 Use this checklist in proportion to the scope and risk of the implementation. Skip
